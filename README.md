@@ -10,9 +10,9 @@
   <p><b><i><center>Билеты в наличии</center><i><b>
         <table border=3>
             <tr>
-                <td bgcolor="black"><font color="#FFFFFF">Украина(Киев, Закарпатье)</td>
-                <td bgcolor="black"><font color="#FFFFFF">Польша(Варшава, Катовице)</td>
-                <td bgcolor="black"><font color="#FFFFFF">Румыния(Трансильвания, Бухарест)</td>
+                <td bgcolor="black"><font color="#FFFFFF">Украина(Киев, Закарпатье)</font></td>
+                <td bgcolor="black"><font color="#FFFFFF">Польша(Варшава, Катовице)</font></td>
+                <td bgcolor="black"><font color="#FFFFFF">Румыния(Трансильвания, Бухарест)</font></td>
             </tr>
         <tr>
             <td bgcolor="black"><font color="#FFFFFF">В наличии</font></td>
