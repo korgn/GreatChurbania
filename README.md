@@ -4,7 +4,6 @@
 </head>
 <body bgcolor="#111111">
 <h1><font size="7" face="Comic Sans MS" color="#FFFFFF"><center>Fast Travel</center></font></h1>
-<hr width=80%>
 <font color="#FFFFFF" face="Arial">
  <p><center>Наш сайт позволяет <br/> <b>быстро и удобно<b> заказать билет для поездки в разные города или страны.<br>Узнать расписание и цены вы можете нажав на кнопку "Купить Билет".</center></p>
     <hr width=85%>
