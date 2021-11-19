@@ -1,32 +1,6 @@
 # korgn.github.io
 <html>
 <head>
-<title>Fast Travel</title>
-<style>
-.form_button {
-         padding: 10px 20px;
-         border: none;
-         border-radius: 5px;
-         font-family: sans-serif;
-         letter-spacing: 1px;
-         font-size: 16xp;
-         color :rgb(255, 255, 255) ;
-         background-color: #00ffea;
-         outline: none;
-         cursor: pointer; 
-         transition: 0.3s;
-         opacity: 0.9;
- }
-    body
-    {
-        background-image: url(https://luxfon.com/images/201203/luxfon.com_8367.jpg);
-    }
-    table
-    {
-        margin: auto;
-    }
-
-    </style>
 </head>
 <body bgcolor="#111111">
 <h1><font size="7" face="Comic Sans MS" color="#FFFFFF"><center>Fast Travel</center></font></h1>
