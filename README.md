@@ -15,9 +15,9 @@
                 <td><font color="#FFFFFF">Румыния(Трансильвания, Бухарест)</font></td>
             </tr>
         <tr>
-            <td><font color="#FFFFFF">В наличии</font></td>
-            <td><font color="#FFFFFF">Нет в наличии</font></td>
-            <td><font color="#FFFFFF">В наличии</font></td>
+            <td bgcolor="black"><font color="#FFFFFF">В наличии</font></td>
+            <td bgcolor="black"><font color="#FFFFFF">Нет в наличии</font></td>
+            <td bgcolor="black"><font color="#FFFFFF">В наличии</font></td>
         </tr>
         </table>
         <center>
