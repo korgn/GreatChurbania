@@ -1,6 +1,7 @@
 # FastTravel
 <html>
 <head>
+   <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body bgcolor="#FFFFFF">
 <font color="#000000" face="Arial">
