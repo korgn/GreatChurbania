@@ -1,4 +1,4 @@
-# korgn.github.io
+# FastTravel
 <html>
 <head>
 </head>
