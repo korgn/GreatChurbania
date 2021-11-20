@@ -19,8 +19,7 @@
     body
     {
              background-repeat: no-repeat;
-        background-image: url(https://www.fonstola.ru/pic/201312/640x480/fonstola.ru-137464.jpg);
-             background-image: url(https://ltdfoto.ru/images/gorod_noch_panorama_urezanaja.jpg);
+        background-image: url(https://www.fonstola.ru/pic/201312/640x480/fonstola.ru-137464.jpg), url(https://ltdfoto.ru/images/gorod_noch_panorama_urezanaja.jpg);
     }
     table
     {
