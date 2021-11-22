@@ -26,10 +26,8 @@
             <iframe width="560" height="315" src="https://www.youtube.com/embed/09dGwpaWnY0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/rKRNibkv9jU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
 <br>
-        <form class="form_button"><font size="5"><a href="https://gd.tickets.ua/kiev?refid=707&gclid=CjwKCAiA7dKMBhBCEiwAO_crFNzJOMdYl683JklLsIsHq1hn9TnqtDufdY-3OImiVXSfSluWji0DlBoCgMMQAvD_BwE">Купить Билет</a></font></form>
+        <form class="form_button"><font size="5" action="">Купить Билет</font></form>
         <hr>
-<p><font color="#FF0000" face="Arial">Внимание! Этот сайт является работой по информатике, если вам действительно нужно заказать билеты</font><font color="FFFFFF" size="5">, найдите настоящий сайт для этого.<br>
-При нажатии на кнопку"Купить Билет" вы попадёте на случайно выбранный мною сайт с билетами.</font></p>
-<br>
+<p><font color="#FF0000" face="Arial">Внимание! Этот сайт является работой по информатике, если вам действительно нужно заказать билеты</font><font color="FFFFFF" size="4">, найдите настоящий сайт для этого.</font></p>
 <hr>
 <br>
