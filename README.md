@@ -11,7 +11,7 @@
             <tr>
                 <td bgcolor="black"><font color="#FFFFFF">Украина(Киев, Закарпатье)</font></td>
                 <td bgcolor="black"><font color="#FFFFFF">Польша(Варшава, Катовице)</font></td>
-                <td bgcolor="black"><font color="#FFFFFF">Румыния(Трансильвания, Бухарест)</font></td>
+                <td bgcolor="black"><font color="#FFFFFF">Беларусь(Минск, Брест)</font></td>
             </tr>
         <tr>
             <td bgcolor="black"><font color="#FFFFFF">В наличии</font></td>
