@@ -26,7 +26,7 @@
             <iframe width="560" height="315" src="https://www.youtube.com/embed/09dGwpaWnY0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/rKRNibkv9jU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
 <br>
-        <form class="form_button"><font size="5" action="">Купить Билет</font></form>
+        <form type="Sumbit" action="" class="form_button"><font size="4">Купить Билет</font></form>
         <hr>
 <p><font color="#FF0000" face="Arial">Внимание! Этот сайт является работой по информатике, если вам действительно нужно заказать билеты</font><font color="FFFFFF" size="4">, найдите настоящий сайт для этого.</font></p>
 <hr>
