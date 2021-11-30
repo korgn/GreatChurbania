@@ -24,7 +24,9 @@
         <center>
             <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QCom1URtyQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/09dGwpaWnY0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/rKRNibkv9jU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/e9pu4nhM4Vk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+           <iframe width="560" height="315" src="https://www.youtube.com/embed/z5u7g-92-RQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+           
 <br>
         <form type="Sumbit" action="" class="form_button"><font size="4">Купить Билет</font></form>
         <hr>
