@@ -28,7 +28,7 @@
            <iframe width="560" height="315" src="https://www.youtube.com/embed/z5u7g-92-RQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
            
 <br>
-        <form type="Sumbit" action="https://korgn.github.io/FastTravel/" class="form_button">Купить Билет</form>
+        <button type="button" class="form_button">Купить Билет</button>
         <hr>
 <p><font color="#FF0000" face="Arial">Внимание! Этот сайт является работой по информатике, если вам действительно нужно заказать билеты</font><font color="FFFFFF" size="4">, найдите настоящий сайт для этого.</font></p>
 <hr>
